@@ -5,7 +5,7 @@ Deploy DeepLX on Cloudflare.
 <img src="https://images.mingming.dev/file/5c021ad0cd84494272c35.png" width="700">
 
 ```bash
-curl --location 'https://deeplx.mingming.dev/translate' \
+curl --location 'https://deeplx.ai-2b9.workers.dev/translate' \
 --header 'Content-Type: application/json' \
 --data '{
     "text": "免费，无限量翻译 API",
